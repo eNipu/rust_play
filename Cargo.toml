@@ -19,3 +19,11 @@ path = "src/bin/7_reverse_int.rs"
 [[bin]]
 name = "13"
 path = "src/bin/13_palindrome.rs"
+
+[[bin]]
+name = "14"
+path = "src/bin/14_Longest_Common_Prefix.rs"
+
+[[bin]]
+name = "26"
+path = "src/bin/26_Remove_Duplicates_from_Sorted_Array.rs"
